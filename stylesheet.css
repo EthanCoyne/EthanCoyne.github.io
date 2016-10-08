@@ -1,0 +1,88 @@
+body {
+	font: 16px Helvetica, Serif;
+	background: url(http://www.photos-public-domain.com/wp-content/uploads/2013/01/off-white-abstract-pattern-laminate-counterop-texture.jpg);
+}
+
+	
+}
+
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #213862;
+
+	border-radius: 15px;
+	height: 100px;
+}
+
+.polaroid {
+  position: relative;
+  float: right;
+  width: 20%;
+  
+}
+ 
+.polaroid img {
+  border: 10px solid #fff;
+  border-bottom: 45px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #777;
+     -moz-box-shadow: 3px 3px 3px #777;
+          box-shadow: 3px 3px 3px #777;
+}
+ 
+.polaroid p {
+  position: absolute;
+  text-align: center;
+  width: 85%;
+  bottom: 0px;
+  font: 400 18px/1 'Kaushan Script', cursive;
+  color: #888;
+}
+
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+	width: 80%;
+
+	float: left;
+
+	font-style: italic;
+	font-size: 20px;
+}
+
+#content-professionalheader {
+	font-size: 28px;
+}
+
+#content-references {
+	font-size: 28px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#content-burch {
+	width: 78%;
+}
+
+.date {
+	float: right;
+}
+
+h3 {
+	border-bottom: 1px solid #999;
+}
+
+h4{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+

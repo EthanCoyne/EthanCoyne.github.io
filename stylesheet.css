@@ -33,9 +33,9 @@ body {
 .polaroid p {
   position: absolute;
   text-align: center;
-  width: 60%;
+  width: 85%;
   bottom: 0px;
-  font: 400 18px/1 'Kaushan+Script', cursive;
+  font: 400 18px/1 'Kaushan Script', cursive;
   color: #888;
 }
 
@@ -51,9 +51,7 @@ body {
 #content-summarycontent {
 	margin: 0 0 16px 0;
 	padding: 0 0 32px 0;
-	width: 80%;
-
-	float: left;
+	width: 800px;
 
 	font-style: italic;
 	font-size: 20px;
@@ -74,7 +72,7 @@ body {
 }
 
 .date {
-	float: right;
+	padding-left: 200px;
 }
 
 h3 {
@@ -84,5 +82,11 @@ h3 {
 h4{
 	margin-top: 0px;
 	margin-bottom: 0px;
+	text-decoration: underline;
 }
+
+li {
+	padding-bottom: 10px;
+}
+
 
